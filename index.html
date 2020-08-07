@@ -5,9 +5,13 @@ layout: default
 <section class="blog">
   {% for post in paginator.posts %}
   <article class="post mb4">
-    <h2><a class="link underline-hover" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <h2 class='pv3 ph2 bg-brand-sky-blue f2 lh-copy'>
+      <a class="link underline-hover brand-blue" href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h2>
 
-    <p>
+    <p class="f6">
       Posted on {{ post.date | date_to_string: "ordinal", "US" }}
     </p>
 

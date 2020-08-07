@@ -1,15 +1,15 @@
-@import "tachyons.min.css";
+@import 'tachyons.min.css';
 :root {
-  --brand-royal-blue: #1A0A6E;
-  --brand-sky-blue: #5CC8D8;
-  --brand-branch-green: #1DA57E;
-  --brand-violet: #6E56B1;
-  --brand-ruby-red: #E95D68;
+  --brand-royal-blue: #1a0a6e;
+  --brand-sky-blue: #5cc8d8;
+  --brand-branch-green: #1da57e;
+  --brand-violet: #6e56b1;
+  --brand-ruby-red: #e95d68;
   --brand-black: #090326;
 }
 
 .plex-sans {
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .brand-blue {
@@ -18,6 +18,10 @@
 
 .brand-sky-blue {
   color: var(--brand-sky-blue);
+}
+
+.bg-brand-sky-blue {
+  background-color: var(--brand-sky-blue);
 }
 
 .brand-violet {
@@ -46,5 +50,9 @@
 
 .post {
   padding-bottom: 15px;
-  border-bottom: 1px solid var(--brand-sky-blue);
+}
+
+a,
+a:visited {
+  color: var(--brand-royal-blue);
 }
