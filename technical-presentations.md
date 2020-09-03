@@ -4,10 +4,9 @@ permalink: /presentations/
 layout: default
 ---
 
-# Team Two Technical Presentations
+# Team Four Technical Presentations
 
-- Phase 2: *Friday, July 10, 2020 at 1:00 pm*
-- Phase 1: *Thursday, June 11, 2020, at 3:00 pm*
+- Phase 1: *Thursday, September 2, 2020, at 2:00 pm*
 
 Each student will give a short technical presentation about a project that they worked on during the previous weeks of the phase.
 
