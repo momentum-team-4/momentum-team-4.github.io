@@ -6,7 +6,7 @@ layout: default
 
 # Very important links
 
-- [Zoom classroom](https://us02web.zoom.us/s/580193256?pwd=L28zUENjcUJ3dTJ3VFhvc0IzWitvQT09)
+- [Zoom classroom](https://us02web.zoom.us/j/89773940080?pwd=U0tmaGloZTNQWE1icVJkbUg5cWZQQT09)
 - [Zoom co-working room](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09)
 - [Class GitHub organization](https://github.com/momentum-team-4)
 - [Examples Repo](https://github.com/momentum-team-4/examples)
