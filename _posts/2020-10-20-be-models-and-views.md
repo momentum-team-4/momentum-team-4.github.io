@@ -19,3 +19,5 @@ Some of the resources we used were:
 - [Custom permissions](https://www.django-rest-framework.org/api-guide/permissions/#custom-permissions)
 - [Classy DRF](http://www.cdrf.co/)
 
+For Thursday, you should have a minimum viable API done. Specifically, users should be able to create text-only cards via the API and retrieve a list of all cards created by users in reverse chronological order. It would be ideal if you added following other users as well.
+
