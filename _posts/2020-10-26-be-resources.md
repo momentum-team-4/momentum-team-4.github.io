@@ -20,3 +20,13 @@ Some resources:
 And lastly, the video:
 
 [Zoom video](https://us02web.zoom.us/rec/share/p0pNvR06wbRmmAZFkNVHyn_L6wXERkL_iG3xc95rc4v4nixIn3LaHmGUoPiObBwH.Xt4-2cFhNBc6SrbV) Passcode: @h@qz8fb
+
+Remember to put this in `settings.py`!
+
+```py
+from corsheaders.defaults import default_headers
+
+CORS_ALLOW_HEADERS = list(default_headers) + [
+    'content-disposition',
+]
+```
