@@ -32,7 +32,7 @@ Record a 5-minute screencast that demos your app's features. You and your team w
 
 Write a short (1-2 sentences) description of your app. This will be used along with a video of your presentation on your website when we post it, and may be used when Momentum staff communicate verbally or in writing with employers or others outside our organization about what your team built.
 
-Upload your final video and description (AND APP NAME!) to the Google Drive folder below by **Thursday, October 29 at 2:00 pm**.
+Upload your final video and description (AND APP NAME!) to the Google Drive folder below by **Thursday, Dec 3 at 2:00 pm**.
 
 - [Google Drive folder](https://drive.google.com/drive/folders/1yqX2wikhrrZ5c1s3pL_LqxHe2a_Ijb9V?usp=sharing)
 
